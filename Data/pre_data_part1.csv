@@ -1,7 +1,7 @@
 Id/Title,Release year,Age rating,Runtime,Genre
-tt21625056,2024,NC-17,1h 23min,"Drama, Crime"
-tt13830348,2024,R,1h 23min,"Science-Fiction, Drama, Action & Adventure, Fantasy"
-tt21608540,2024,G,1h 38min,"Comedy, Music & Musical, Drama, Romance"
+tt21625056,2024,NC-17,1h 23min,"Crime, Drama"
+tt13830348,2024,R,1h 23min,"Action & Adventure, Fantasy, Science-Fiction, Drama"
+tt21608540,2024,G,1h 38min,"Comedy, Romance, Music & Musical, Drama"
 tt31187315,2024,PG,1h 24min,"Crime, Drama"
 tt33113349,2024,G,1h 24min,Romance
 tt8785038,2024,R,Null,"Animation, Comedy"
@@ -9,21 +9,21 @@ tt31227134,2024,PG-13,1h 41min,"Documentary, War & Military"
 tt27804552,2024,R,1h 40min,Mystery & Thriller
 tt32526781,2024,R,38min,Documentary
 tt21857662,2024,R,1h 41min,"Comedy, Romance"
-tt31116671,2024,R,1h 0min,Music & Musical
-tt31924746,2024,PG-13,52min,Documentary
+Apple Music Live: SZA,2024,R,1h 0min,Music & Musical
+tt31924746,2024,PG-13,1h 9min,Documentary
 tt31514779,2024,PG-13,54min,Documentary
 tt29259251,2024,PG-13,1h 30min,Documentary
-tt29898251,2024,PG,1h 20min,"Horror, Animation, Action & Adventure, Comedy, Fantasy, Kids & Family"
+tt29898251,2024,PG,1h 20min,"Fantasy, Horror, Animation, Action & Adventure, Comedy, Kids & Family"
 tt20864606,2024,R,1h 30min,Horror
 tt15091524,2024,R,1h 25min,Drama
 tt22392694,2024,R,1h 36min,"Drama, Crime"
-tt28494829,2024,R,1h 48min,"Comedy, Crime, Action & Adventure"
-Interview with the Extraterrestrial,2024,Null,Null,Null
-tt29892095,2024,PG,1h 40min,"Fantasy, Romance"
+tt28494829,2024,R,1h 48min,"Comedy, Action & Adventure, Crime"
+Interview with the Extraterrestrial,2024,PG,1h 14min,Documentary
+tt29892095,2024,PG,1h 40min,"Comedy, Fantasy, Romance"
 Franco Escamilla: Ladies' man,2024,R,1h 13min,Comedy
 tt32094258,2024,PG-13,1h 26min,Drama
 tt16409868,2024,R,1h 41min,"Drama, Romance"
-tt14754590,2024,Null,Null,Null
+tt14754590,2024,PG-13,2h 12min,"Drama, Romance, Comedy"
 Writing a Love Song,2024,G,1h 30min,Romance
 tt31852716,2024,PG-13,1h 38min,"History, Documentary"
 tt26669823,2024,R,1h 38min,"Mystery & Thriller, Drama"
@@ -32,25 +32,25 @@ tt21398192,2024,R,1h 34min,"Fantasy, Action & Adventure"
 tt30955308,2024,PG-13,1h 21min,"Documentary, Sport"
 tt10442352,2024,PG,1h 33min,"Animation, Fantasy, Comedy, Kids & Family"
 tt31194520,2024,R,1h 13min,Comedy
-tt5012320,2024,Null,Null,Null
+tt5012320,2024,PG,1h 50min,Drama
 tt31189901,2024,R,1h 55min,"Documentary, Crime"
 tt15727262,2024,PG-13,1h 31min,"Comedy, Drama"
-tt29259074,2024,Null,Null,Null
+tt29259074,2024,PG,1h 23min,Documentary
 The Cardigan Classic: Fallon vs. Khaled,2024,G,1h 0min,"Comedy, Documentary"
-tt34058121,2024,R,1h 35min,Documentary
+tt34058121,2024,PG-13,1h 35min,Documentary
 Marvel Studios Assembled: The Making of X-Men '97,2024,PG,56min,Documentary
-tt12386108,2023,R,1h 52min,Drama
+tt23221124,2023,R,1h 52min,Drama
 tt28485522,2024,PG,1h 26min,"Animation, Kids & Family, Fantasy"
-tt13699132,2024,PG-13,2h 4min,"Comedy, Drama"
+tt21342456,2024,PG-13,2h 4min,"Comedy, Drama"
 tt15451150,2024,R,1h 42min,"Drama, Horror"
 tt12623434,2024,PG,1h 34min,"Fantasy, Comedy, Kids & Family"
-tt33501680,2024,PG-13,1h 35min,"Crime, Documentary"
+tt33501680,2024,PG-13,1h 35min,"Documentary, Crime"
 tt31410442,2024,PG-13,1h 37min,Documentary
 tt33081211,2024,R,1h 14min,Comedy
 tt32133575,2024,PG-13,1h 32min,Documentary
-tt5113010,2024,PG-13,2h 5min,"Sport, Drama"
-tt23063732,2024,G,1h 26min,"Action & Adventure, Kids & Family, Animation, Comedy, Fantasy"
-tt10831486,2024,R,1h 32min,"Action & Adventure, Science-Fiction, Mystery & Thriller"
+tt5113010,2024,PG-13,2h 5min,"Sport, Drama, Sports Drama"
+tt23063732,2024,G,1h 26min,"Comedy, Animation, Kids & Family, Fantasy"
+tt10831486,2024,R,1h 32min,"Mystery & Thriller, Science-Fiction, Action & Adventure"
 tt12547822,2024,R,1h 40min,"Horror, Mystery & Thriller, Drama"
 tt27696645,2024,R,1h 33min,"Documentary, Music & Musical"
 tt31987507,2024,PG,1h 15min,Documentary
@@ -59,41 +59,41 @@ tt24131288,2024,R,1h 30min,"Mystery & Thriller, Action & Adventure"
 tt3083016,2024,R,1h 58min,"Action & Adventure, Comedy, Crime, Mystery & Thriller"
 tt9860566,2024,R,1h 28min,"Crime, Action & Adventure, Comedy"
 tt20115766,2024,R,1h 54min,"Crime, Mystery & Thriller, Action & Adventure"
-tt14539740,2024,PG-13,1h 55min,"Science-Fiction, Action & Adventure, Mystery & Thriller, Fantasy"
-tt15685360,2024,PG,1h 44min,"Kids & Family, Sport, Drama"
+tt14539740,2024,PG-13,1h 55min,"Action & Adventure, Science-Fiction, Mystery & Thriller, Fantasy"
+tt15685360,2024,PG,1h 44min,"Sport, Kids & Family, Drama"
 tt14966898,2024,R,1h 33min,Horror
 tt26084002,2024,R,1h 31min,"Mystery & Thriller, Comedy"
-tt12610390,2024,PG-13,1h 49min,"Comedy, Action & Adventure, Mystery & Thriller"
+tt12610390,2024,PG-13,1h 49min,"Action & Adventure, Comedy, Mystery & Thriller"
 tt27676959,2024,R,1h 26min,Mystery & Thriller
-tt31022050,2024,PG-13,1h 39min,"Comedy, Drama, Romance"
-tt12735488,2024,PG-13,3h 0min,"Fantasy, Science-Fiction, Mystery & Thriller, Action & Adventure, Drama"
-tt20315818,2024,R,1h 40min,"Drama, Comedy"
+tt31022050,2024,PG-13,1h 39min,"Romance, Comedy, Drama"
+tt12735488,2024,PG-13,3h 0min,"Mystery & Thriller, Action & Adventure, Drama, Fantasy, Science-Fiction"
+tt20315818,2024,R,1h 40min,"Comedy, Drama"
 tt30319503,2024,R,1h 33min,"Comedy, Drama"
-The Forge,2024,PG,2h 4min,"Drama, Kids & Family"
-tt33034103,2024,PG-13,1h 40min,"Comedy, Documentary"
+tt26731216,2024,PG,2h 4min,"Drama, Kids & Family"
+tt33034103,2024,PG-13,1h 40min,"Documentary, Comedy"
 tt13457790,2024,R,1h 41min,"Crime, Drama"
-tt11301886,2024,Null,Null,Null
-tt13015408,2024,PG-13,1h 36min,"Science-Fiction, Horror, Comedy, Action & Adventure"
+tt11301886,2024,R,2h 12min,"Action & Adventure, Mystery & Thriller, Drama, Crime"
+tt13015408,2024,PG-13,1h 36min,"Comedy, Action & Adventure, Science-Fiction, Horror"
 tt30833435,2024,R,1h 25min,"Horror, Mystery & Thriller"
 tt31530596,2024,PG-13,1h 28min,Action & Adventure
 tt14858658,2024,R,1h 43min,"Mystery & Thriller, Horror"
-tt14415204,2024,R,1h 41min,"Horror, Mystery & Thriller, Drama"
-tt21261712,2024,R,2h 3min,"Drama, Music & Musical"
-tt32380491,2024,R,53min,"Comedy, Documentary"
+tt14415204,2024,R,1h 41min,"Mystery & Thriller, Horror, Drama"
+tt21261712,2024,R,2h 2min,"Drama, Music & Musical, History"
+tt32380491,2024,R,53min,"Comedy, Documentary, Stand Up Comedy"
 tt11790352,2024,R,1h 43min,Horror
 Kung Fu Games,2024,R,1h 34min,Action & Adventure
 tt22334258,2024,PG,1h 58min,"Romance, Drama"
-tt11762114,2024,PG-13,1h 53min,Comedy
-tt27881925,2024,PG-13,1h 48min,"Action & Adventure, Drama"
-tt31122323,2024,G,1h 23min,"Comedy, Crime, Kids & Family, Science-Fiction, Animation, Action & Adventure"
+tt11762114,2024,PG-13,1h 50min,Comedy
+tt27881925,2023,PG-13,1h 48min,"Action & Adventure, Drama"
+tt31122323,2024,G,1h 23min,"Animation, Comedy, Science-Fiction, Kids & Family, Action & Adventure, Crime"
 tt20194882,2024,R,1h 36min,"Romance, Drama"
 tt30332425,2024,R,1h 20min,Horror
 tt6850952,2024,PG,1h 30min,Documentary
 tt27543996,2024,PG-13,1h 44min,Documentary
-tt24229028,2024,R,1h 42min,"Fantasy, Horror, Mystery & Thriller"
-tt14940390,2024,Null,Null,Null
+tt24229028,2024,R,1h 42min,"Horror, Mystery & Thriller, Fantasy"
+tt14940390,2024,R,1h 30min,"Horror, Mystery & Thriller"
 Season 666,2024,R,53min,"Comedy, Horror"
-tt8308900,2024,Null,Null,Null
+tt8308900,2024,PG-13,52min,"Documentary, Made in Europe"
 On the Market,2024,PG-13,1h 34min, Remove ads 
 tt34249024,2024,PG-13,1h 27min,Action & Adventure
 tt9010322,2024,R,1h 31min,Crime
@@ -111,70 +111,70 @@ tt28490042,2024,R,1h 30min,"Documentary, Music & Musical"
 tt21600628,2024,PG-13,1h 28min,Crime
 tt22803220,2024,R,1h 39min,Drama
 tt16348996,2024,R,1h 36min,"Drama, Mystery & Thriller, Crime"
-tt31841789,2024,Null,Null,Null
+tt31841789,2024,R,1h 50min,"Documentary, Drama"
 tt27505523,2024,R,1h 10min,"Horror, Science-Fiction, Mystery & Thriller"
-tt31068337,2024,G,1h 24min,"Comedy, Fantasy, Romance"
+tt31068337,2024,G,1h 24min,"Comedy, Romance, Fantasy"
 tt30319533,2024,R,1h 35min,Comedy
 tt27357183,2024,R,1h 28min,"Action & Adventure, Drama"
 Protecting Paradise: The Story of Niue,2024,PG,45min,Documentary
-tt33503181,2024,G,1h 24min,"Comedy, Romance, Drama"
-tt32324146,2024,R,1h 53min,"Mystery & Thriller, Crime, Drama, Action & Adventure"
+tt33503181,2024,G,1h 24min,"Drama, Comedy, Romance"
+tt32324146,2024,R,1h 53min,"Crime, Drama, Mystery & Thriller, Action & Adventure"
 tt32793203,2024,PG,1h 16min,"Comedy, Kids & Family, Drama"
 tt3707428,2024,PG-13,2h 13min,Horror
 tt31629556,2024,R,1h 17min,Horror
-tt22778346,2024,R,1h 40min,"Mystery & Thriller, Horror"
+tt22778346,2024,R,1h 40min,"Horror, Mystery & Thriller, Horror Thriller"
 tt22805652,2024,R,1h 34min,"Crime, Drama"
 tt28523838,2024,R,2h 2min,Drama
-The Fabulous Four,2024,R,1h 39min,"Drama, Comedy"
+tt20215816,2024,R,1h 39min,"Drama, Comedy"
 tt34328066,2024,G,1h 30min,"Romance, Comedy"
 tt32345083,2024,R,59min,"Comedy, Documentary"
 tt30796334,2024,R,1h 6min,"Comedy, Documentary"
-tt10993078,2024,R,1h 36min,"Drama, Mystery & Thriller, Action & Adventure, Crime"
+tt10993078,2024,R,1h 36min,"Crime, Drama, Mystery & Thriller, Action & Adventure"
 tt30343797,2024,PG-13,1h 9min,Comedy
 tt27921617,2024,R,1h 43min,"Comedy, Drama"
 tt31723382,2024,R,53min,"Comedy, Documentary"
-tt11225626,2024,R,1h 26min,"Drama, Romance, Comedy"
+tt11225626,2024,R,1h 26min,"Comedy, Drama, Romance"
 tt26658104,2024,PG-13,1h 44min,"Mystery & Thriller, Horror"
 tt27110516,2024,R,1h 42min,"Action & Adventure, Mystery & Thriller"
-tt23173980,2024,R,1h 48min,"Action & Adventure, Crime, Mystery & Thriller"
+tt23173980,2024,R,1h 48min,"Action & Adventure, Mystery & Thriller, Crime"
 Matt Rife: Lucid - A Crowd Work Special,2024,R,54min,Comedy
-tt28259207,2024,R,1h 45min,"Crime, Drama, Mystery & Thriller, Action & Adventure"
-tt15507512,2024,PG-13,2h 5min,"Music & Musical, Drama"
+tt28259207,2024,R,1h 45min,"Action & Adventure, Crime, Drama, Mystery & Thriller"
+tt15507512,2024,PG-13,2h 5min,"Drama, Music & Musical"
 tt13397574,2024,R,1h 34min,Drama
-tt12573480,2024,R,1h 34min,"Mystery & Thriller, Drama, Horror"
-tt27218960,2024,R,1h 31min,"Horror, Comedy, Science-Fiction"
-tt21345388,2024,R,1h 48min,"Drama, Romance, Comedy"
-tt26470109,2024,R,1h 38min,"Mystery & Thriller, Horror"
+tt12573480,2024,R,1h 34min,"Drama, Horror, Mystery & Thriller"
+tt27218960,2024,R,1h 31min,"Science-Fiction, Comedy, Horror"
+tt27131358,2024,R,1h 48min,"Drama, Romance, Comedy"
+tt26470109,2024,R,1h 38min,"Horror, Mystery & Thriller"
 tt31990036,2024,PG-13,59min,Documentary
 tt16427902,2024,R,1h 50min,"Science-Fiction, Sport, Mystery & Thriller"
 tt34350086,2024,PG-13,1h 24min,Documentary
 tt7983904,2024,R,1h 42min,"Drama, Romance"
 tt14371860,2024,R,1h 47min,"Horror, Mystery & Thriller"
 tt10128846,2024,R,2h 18min,"Drama, Fantasy, Science-Fiction"
-Upgraded,2024,R,1h 45min,"Comedy, Romance"
+tt21830902,2024,R,1h 45min,"Romance, Comedy"
 tt21469794,2024,PG-13,1h 50min,"Comedy, Romance"
 tt15078804,2024,R,1h 44min,Comedy
 tt32258850,2024,R,1h 34min,Documentary
-tt24458622,2024,Null,Null,Null
-tt32045638,2024,G,1h 24min,"Romance, Kids & Family, Comedy, Drama"
-tt14827150,2024,R,1h 36min,"Mystery & Thriller, Horror"
+tt24458622,2024,PG-13,2h 7min,"Drama, History, War & Military"
+tt32045638,2024,G,1h 24min,"Romance, Comedy, Drama, Kids & Family"
+tt14827150,2024,R,1h 36min,"Horror, Mystery & Thriller"
 tt28856462,2024,PG-13,1h 59min,"Comedy, Horror"
-tt15338966,2024,R,1h 34min,"Comedy, Mystery & Thriller"
+tt15338966,2024,R,1h 34min,Comedy
 tt13655120,2024,R,1h 36min,Science-Fiction
 tt21692408,2024,PG,1h 34min,"Kids & Family, Fantasy, Animation, Action & Adventure, Comedy"
 tt20215234,2024,PG,2h 0min,Drama
 tt31450182,2024,PG-13,1h 31min,Mystery & Thriller
-tt31922530,2024,PG-13,1h 53min,"Documentary, Music & Musical"
+tt31922530,2024,PG-13,1h 53min,"Music & Musical, Documentary"
 tt31014113,2024,PG-13,37min,Documentary
-tt29439114,2024,Null,Null,Null
-tt8542964,2024,R,1h 52min,"Crime, Drama"
-tt14577874,2024,R,1h 43min,"Comedy, Mystery & Thriller, Science-Fiction"
+tt29439114,2024,PG-13,1h 47min,Drama
+tt8542964,2024,R,1h 52min,"Drama, Crime"
+tt14577874,2024,R,1h 44min,"Mystery & Thriller, Science-Fiction, Comedy"
 tt32149731,2024,R,1h 28min,"Documentary, Comedy"
 tt9663896,2024,R,2h 0min,"Mystery & Thriller, Drama"
 tt1896747,2024,PG-13,2h 12min,"Romance, Comedy"
 tt22048412,2024,R,1h 44min,"Horror, Mystery & Thriller, Crime"
 tt20112600,2024,R,1h 49min,"Drama, Sport, Mystery & Thriller"
-,2024,Null,Null,Null
+tt31796256,2024,PG-13,1h 36min,"Drama, Crime, Mystery & Thriller, History"
 tt29538571,2024,R,1h 29min,"Drama, Sport"
 tt11261538,2024,R,1h 26min,"Mystery & Thriller, Horror"
 tt33113326,2024,G,1h 24min,Romance
@@ -184,12 +184,12 @@ tt32609484,2024,NC-17,1h 27min,Mystery & Thriller
 tt16245598,2024,R,1h 20min,Action & Adventure
 tt14252678,2024,NC-17,1h 20min,Horror
 Prepare to Die,2024,R,1h 33min,Mystery & Thriller
-tt33050183,2024,Null,Null,Null
+tt33050183,2024,NC-17,1h 0min,Comedy
 tt31728564,2024,R,1h 50min,Science-Fiction
 tt32553821,2024,PG-13,2h 12min,"Romance, Kids & Family"
 tt13380236,2024,NC-17,1h 20min,"Comedy, Crime"
 tt21034958,2024,R,1h 50min,Western
-tt5001454,2024,Null,Null,Null
+tt5001454,2024,PG,1h 40min,"Drama, Crime"
 tt31946502,2024,R,1h 0min,Mystery & Thriller
 tt29333377,2024,PG-13,1h 58min,Documentary
 tt32657741,2024,PG-13,55min,Documentary
@@ -197,8 +197,8 @@ tt8510380,2024,R,1h 31min,"Drama, Comedy"
 tt11840016,2024,PG,1h 37min,"Drama, Documentary"
 tt10294634,2024,G,1h 45min,"Kids & Family, Drama"
 tt30971477,2024,PG,1h 31min,"Comedy, Romance, Drama"
-tt3643390,2024,Null,Null,Null
-tt30401577,2024,PG-13,1h 28min,"Action & Adventure, Horror"
+tt3643390,2024,NC-17,1h 35min,"Drama, Crime, Fantasy, Science-Fiction, Mystery & Thriller, Horror, War & Military"
+tt30401577,2024,PG-13,1h 28min,"Action & Adventure, Horror, Horror Thriller"
 tt31039503,2024,R,55min,Comedy
 tt31598168,2024,G,1h 26min,"Drama, Crime"
 tt14304018,2024,R,1h 56min,"Romance, Music & Musical, Comedy"
@@ -209,7 +209,7 @@ tt14356266,2024,PG-13,1h 53min,"Drama, Kids & Family, Music & Musical"
 tt31314185,2024,R,1h 27min,Documentary
 tt31522736,2024,PG-13,1h 22min,Drama
 tt24478470,2024,R,1h 45min,"Action & Adventure, Comedy, Crime, Romance"
-tt30985567,2024,R,1h 9min,"Crime, Drama, Mystery & Thriller"
+tt30985567,2024,R,1h 9min,"Mystery & Thriller, Crime, Drama"
 tt22866050,2024,R,1h 53min,"Drama, Romance"
 tt16300138,2024,R,1h 46min,"Drama, Comedy"
 tt30215084,2024,PG-13,1h 6min,"Music & Musical, Drama, Fantasy, Romance, Comedy"
@@ -219,12 +219,12 @@ tt4853290,2024,R,1h 27min,"Mystery & Thriller, Horror, Action & Adventure"
 tt16539314,2024,R,1h 23min,"Crime, Mystery & Thriller, Horror"
 A Greek Recipe for Romance,2024,G,1h 25min,"Romance, Drama"
 tt16025158,2024,PG,1h 42min,"Drama, Romance"
-tt32604434,2024,Null,Null,Null
+TikTok Star Murders,2024,R,1h 30min,"Documentary, Crime"
 tt15823456,2024,PG-13,1h 34min,"Drama, Comedy"
 tt33356045,2024,R,59min,"Documentary, Comedy"
 tt13174124,2024,R,2h 30min,"Drama, Action & Adventure, Crime"
 tt32881060,2024,R,1h 51min,Documentary
-tt32001482,2024,R,1h 46min,"Mystery & Thriller, Crime"
+tt32001482,2024,R,1h 46min,"Crime, Action & Adventure, Mystery & Thriller"
 tt10080110,2024,R,1h 36min,"Action & Adventure, Crime"
 Hazard,2024,R,1h 28min,Drama
 tt33484071,2024,PG-13,1h 22min,Documentary
@@ -234,62 +234,62 @@ tt12806322,2024,G,1h 25min,"Drama, Kids & Family"
 tt11097384,2024,R,1h 47min,"Drama, Science-Fiction, Action & Adventure"
 tt27899596,2024,PG-13,2h 23min,Drama
 tt7737224,2024,PG-13,1h 49min,"Romance, Drama"
-tt17315214,2024,R,1h 18min,"Drama, Science-Fiction"
+tt21572042,2024,R,1h 18min,"Science-Fiction, Drama"
 tt30253266,2024,R,1h 40min,"Action & Adventure, Mystery & Thriller"
 tt31777553,2024,R,1h 49min,"Horror, Mystery & Thriller"
 tt24078380,2024,R,1h 58min,Documentary
 tt31037863,2024,PG,50min,"Documentary, Kids & Family"
 M*A*S*H: The Comedy That Changed Television,2024,PG,1h 30min,"Documentary, Comedy"
-tt21815562,2024,R,2h 0min,"History, Crime, Drama"
-tt31974111,2024,R,1h 23min,Horror
+Wise Guys,2025,R,2h 0min,"History, Crime, Drama"
+tt31974111,2024,R,1h 23min,"Horror, Mystery Thriller"
 tt30475122,2024,R,26min,"Fantasy, Action & Adventure, Animation"
-tt27009795,2024,PG-13,1h 37min,"Mystery & Thriller, Documentary"
+tt27009795,2024,PG-13,1h 37min,"Documentary, Mystery & Thriller"
 tt31747163,2024,R,1h 28min,"Documentary, Crime"
-tt18300732,2024,R,1h 54min,"Crime, Action & Adventure, Mystery & Thriller"
+tt18300732,2024,R,1h 54min,"Action & Adventure, Crime, Mystery & Thriller"
 My Home Hero the Movie,2024,R,1h 58min,Crime
 Marvel Studios Assembled: The Making of Echo,2024,PG-13,47min,Documentary
 tt26315566,2024,R,1h 22min,"Documentary, Sport"
-tt22863968,2024,R,1h 26min,"Horror, Mystery & Thriller, Drama"
-tt11389872,2024,PG-13,2h 25min,"Science-Fiction, Action & Adventure, Drama, Mystery & Thriller"
-tt13964390,2024,R,1h 44min,"Mystery & Thriller, Drama, Horror, Action & Adventure, Sport"
+tt22863968,2024,R,1h 26min,"Horror, Mystery & Thriller, Drama, Horror Thriller"
+tt11389872,2024,PG-13,2h 25min,"Science-Fiction, Action & Adventure, Mystery & Thriller, Drama"
+tt13964390,2024,R,1h 44min,"Drama, Horror, Mystery & Thriller, Action & Adventure, Sport"
 tt32178949,2024,PG-13,2h 48min,"Crime, Drama, Mystery & Thriller"
 Godzilla Minus One/Minus Color,2024,Null,2h 5min,Mystery & Thriller
 tt10243672,2024,PG-13,1h 55min,"Drama, History"
 tt30321133,2024,R,1h 54min,"Documentary, Comedy"
-tt8964540,2024,Null,2h 3min,"Horror, Mystery & Thriller, Action & Adventure"
+tt8964540,2024,R,2h 3min,"Horror, Action & Adventure, Mystery & Thriller"
 tt14914430,2024,PG-13,1h 37min,"Comedy, History"
 tt26547000,2024,PG-13,2h 3min,Crime
 tt28491891,2024,R,1h 41min,"Drama, Comedy"
 tt14505778,2024,PG-13,1h 44min,"Drama, War & Military"
 tt15041836,2024,R,1h 34min,"Action & Adventure, Horror, Mystery & Thriller"
 tt21382296,2024,PG-13,1h 59min,"Action & Adventure, Crime"
-tt11563598,2024,R,2h 18min,"Drama, Music & Musical"
-tt21270966,2024,Null,Null,Null
-tt32375562,2024,R,51min,"Comedy, Animation"
-tt20215968,2024,R,1h 56min,"Crime, Comedy, Romance"
-tt26420234,2024,PG,1h 46min,"Documentary, Music & Musical"
+tt11563598,2024,R,2h 18min,"History, Drama, Music & Musical"
+tt21270966,2024,R,1h 37min,Comedy
+tt32375562,2024,R,51min,"Animation, Comedy"
+tt20215968,2024,R,1h 56min,"Comedy, Romance, Crime"
+tt26420234,2024,PG,1h 46min,"Music & Musical, Documentary"
 tt14682800,2024,R,1h 51min,"Fantasy, Drama"
-tt19637052,2024,R,1h 44min,"Mystery & Thriller, Action & Adventure, Crime, Romance"
+tt19637052,2024,R,1h 44min,"Romance, Crime, Mystery & Thriller, Action & Adventure"
 tt17505010,2024,R,3h 2min,"Western, Drama"
-tt27722575,2024,PG,1h 38min,"Comedy, Kids & Family, Fantasy, Animation, Action & Adventure"
+tt27722575,2024,PG,1h 38min,"Action & Adventure, Comedy, Kids & Family, Fantasy, Animation"
 tt2965408,2024,PG,1h 55min,"Drama, Kids & Family"
-tt33404610,2024,G,45min,"Animation, Kids & Family, Comedy, Horror"
-tt8864596,2024,PG,1h 44min,"Action & Adventure, Kids & Family, Animation, Science-Fiction, Fantasy"
-tt30476486,2024,PG-13,1h 24min,"Drama, Comedy, Sport, Animation"
-tt27717667,2024,R,2h 11min,"Fantasy, Drama, Western, Horror, Romance"
-tt25052668,2024,PG-13,1h 46min,"Drama, Comedy"
+tt33404610,2024,G,45min,"Kids & Family, Comedy, Horror, Animation"
+tt8864596,2024,PG,1h 44min,"Animation, Science-Fiction, Action & Adventure, Kids & Family, Fantasy, Modern Anime"
+tt30476486,2024,PG-13,1h 25min,"Animation, Drama, Sport, Comedy, Classic Japanese Anime"
+tt27717667,2024,R,2h 10min,"Drama, Fantasy, Horror, Romance, Western"
+tt25052668,2024,PG-13,1h 46min,"Comedy, Drama"
 tt27487473,2024,R,1h 47min,"Action & Adventure, Drama, Mystery & Thriller"
-tt27671792,2024,Null,Null,Null
-Sing: Thriller,2024,G,11min,Horror
-tt12810074,2024,R,1h 39min,"Comedy, Horror"
-tt32084246,2024,PG-13,1h 50min,"Action & Adventure, Mystery & Thriller, Drama"
+tt27671792,2024,PG-13,1h 52min,"Drama, Comedy, Sport"
+Sing: Thriller,2024,G,11min,"Comedy, Horror"
+tt12810074,2024,R,1h 39min,"Fantasy, Comedy, Horror"
+tt32084246,2024,PG-13,1h 50min,Drama
 tt25400540,2024,G,2h 12min,Comedy
 tt14603848,2024,R,2h 15min,"Animation, Action & Adventure, Fantasy"
 tt20217830,2024,NC-17,1h 18min,Drama
-tt6263850,2024,R,2h 8min,"Comedy, Science-Fiction, Action & Adventure"
-tt22939186,2024,R,1h 32min,"Action & Adventure, Drama, Horror, Science-Fiction, Mystery & Thriller"
+tt6263850,2024,R,2h 8min,"Action & Adventure, Comedy, Science-Fiction"
+tt22939186,2024,R,1h 32min,"Drama, Horror, Science-Fiction, Mystery & Thriller, Action & Adventure"
 tt32916093,2024,R,1h 28min,Horror
-tt8790086,2024,R,1h 59min,Mystery & Thriller
+tt8790086,2024,R,2h 6min,Mystery & Thriller
 tt28332336,2024,R,1h 30min,Drama
 tt2049403,2024,PG-13,1h 45min,"Comedy, Fantasy, Horror"
 tt29268110,2024,R,2h 7min,"Horror, Mystery & Thriller"
@@ -303,42 +303,42 @@ tt32158761,2024,PG,1h 29min,Documentary
 tt32482028,2024,G,1h 6min,Documentary
 tt21956238,2024,PG,1h 28min,"Kids & Family, Comedy, Science-Fiction"
 tt33070617,2024,PG,57min,Documentary
-tt20424130,2024,R,1h 52min,"Action & Adventure, Crime, Mystery & Thriller"
+tt20424130,2024,R,1h 52min,"Crime, Mystery & Thriller, Action & Adventure"
 tt14539136,2024,PG,1h 45min,"Documentary, Western"
 tt30827040,2024,R,1h 29min,"Action & Adventure, Animation, Crime"
-tt15791144,2024,R,2h 0min,Mystery & Thriller
-tt28448182,2024,Null,Null,Null
+tt15791144,2024,R,1h 23min,Mystery & Thriller
+tt28448182,2024,R,1h 45min,Documentary
 tt26218316,2024,PG,17min,Documentary
-tt30841606,2024,R,1h 44min,"Horror, Comedy, Drama"
-tt29455128,2024,Null,Null,Null
+tt30841606,2024,R,1h 44min,"Comedy, Horror, Drama"
+tt29455128,2024,R,1h 14min,Horror
 D.I.Y. Duck,2024,G,3min,Comedy
 tt32775431,2024,PG,1h 29min,Romance
 tt33046086,2024,PG-13,1h 15min,Horror
 tt30469484,2024,G,1h 6min,"Animation, Kids & Family"
-tt18566574,2024,Null,Null,Null
+tt18566574,2024,PG-13,1h 33min,"Science-Fiction, Drama"
 Hack Your Health: The Secrets of Your Gut,2024,PG-13,1h 20min,Documentary
 tt10450852,2024,R,1h 38min,"Action & Adventure, Mystery & Thriller, Crime"
 tt33996183,2024,PG,50min,Documentary
-tt33653255,2024,Null,Null,Null
+tt33653255,2024,G,44min,"Comedy, Science-Fiction, Animation, Kids & Family, Action & Adventure"
 tt33984627,2024,PG,45min,Documentary
 tt33132235,2024,PG,1h 25min,Drama
 tt33132332,2024,G,1h 24min,Mystery & Thriller
 tt23218054,2024,R,1h 50min,"Drama, Romance"
 tt33053849,2024,R,1h 39min,Documentary
 tt22029194,2024,R,2h 4min,Horror
-tt21356774,2024,R,1h 20min,"Drama, Romance, Science-Fiction"
-tt5402714,2024,PG-13,1h 33min,"Drama, Horror, Mystery & Thriller"
-tt28528526,2024,R,1h 40min,"Mystery & Thriller, Action & Adventure, Crime"
-tt33498765,2024,R,1h 36min,"Romance, Comedy, Drama"
+tt21356774,2024,R,1h 20min,"Science-Fiction, Drama, Romance"
+tt5402714,2024,PG-13,1h 33min,"Drama, Horror, Mystery & Thriller, Horror Thriller"
+tt28528526,2024,R,1h 40min,"Action & Adventure, Crime, Mystery & Thriller, Horror"
+tt33498765,2024,R,1h 36min,"Comedy, Drama, Romance"
 tt27881035,2024,G,1h 52min,"Romance, Kids & Family, Drama, Comedy"
 tt32560625,2024,PG-13,1h 25min,Drama
-tt1121948,2024,R,2h 6min,"Crime, Action & Adventure, Mystery & Thriller"
+tt1121948,2024,R,2h 6min,"Mystery & Thriller, Action & Adventure"
 tt20221690,2024,PG,1h 40min,"Kids & Family, Comedy, Animation, Fantasy"
 tt11327404,2024,PG,1h 36min,Comedy
-tt23137904,2024,R,2h 3min,"Science-Fiction, Drama, Fantasy"
+tt23137904,2024,R,2h 3min,"Science-Fiction, Fantasy, Drama"
 tt19308034,2024,PG,1h 48min,Documentary
 tt29195117,2024,PG-13,1h 33min,"Fantasy, Science-Fiction, Animation, Action & Adventure"
-tt31227221,2024,PG-13,1h 26min,"Mystery & Thriller, Comedy, Drama, Action & Adventure"
+tt31227221,2024,PG-13,1h 26min,"Action & Adventure, Mystery & Thriller, Comedy, Drama"
 tt21103576,2024,R,1h 46min,"Comedy, Drama"
 tt10229846,2024,PG-13,1h 36min,"Documentary, Music & Musical"
 tt22866358,2024,PG-13,2h 9min,"Comedy, Drama, History, Documentary"
@@ -347,66 +347,66 @@ tt23055660,2024,PG-13,2h 20min,Drama
 tt3864060,2024,PG-13,2h 3min,"Drama, Sport"
 tt32813616,2024,PG-13,2h 0min,"History, Drama"
 tt19114434,2024,PG,1h 29min,"Kids & Family, Comedy, Romance"
-tt21823606,2024,R,1h 30min,"Drama, Comedy"
+tt21823606,2024,R,1h 30min,"Comedy, Drama"
 tt32875161,2024,R,1h 7min,Comedy
 tt14123284,2024,R,Null,"Mystery & Thriller, Action & Adventure"
-The Snow Sister,2024,PG,1h 36min,"Drama, Kids & Family"
-tt23137390,2024,R,1h 29min,"Horror, Mystery & Thriller"
-tt10273738,2024,R,1h 37min,"Mystery & Thriller, Science-Fiction, Horror"
-tt30841644,2024,Null,Null,Null
+tt11092178,2024,PG,1h 36min,"Drama, Kids & Family"
+tt23137390,2024,R,1h 29min,"Mystery & Thriller, Horror"
+tt10273738,2024,R,1h 37min,"Horror, Mystery & Thriller, Science-Fiction"
+tt30841644,2024,G,40min,"Animation, Kids & Family"
 Hayao Miyazaki and the Heron,2024,PG-13,2h 1min,Documentary
-tt15560314,2024,PG-13,1h 47min,"Comedy, Drama"
-tt8310486,2024,R,1h 33min,"Comedy, Drama, Mystery & Thriller"
-tt21201300,2024,PG-13,1h 33min,"Horror, Mystery & Thriller"
-tt32205160,2024,NC-17,1h 36min,"Science-Fiction, Drama"
+tt15560314,2024,PG-13,1h 47min,"Drama, Comedy"
+tt8310486,2024,R,1h 33min,"Mystery & Thriller, Comedy, Drama"
+tt21201300,2024,PG-13,1h 32min,"Horror, Mystery & Thriller"
+tt32205160,2024,NC-17,1h 36min,"Drama, Science-Fiction"
 tt4575512,2024,R,1h 30min,Science-Fiction
-tt33351116,2024,Null,Null,Null
+tt33351116,2024,PG,1h 27min,Drama
 tt17163970,2024,PG,1h 19min,"Animation, Comedy, Kids & Family, Science-Fiction"
 tt20202324,2024,R,1h 30min,Drama
 tt29137778,2024,PG-13,1h 55min,"Action & Adventure, Drama, Mystery & Thriller"
 tt23770030,2024,R,1h 34min,"Animation, Drama"
-tt29293520,2024,PG-13,1h 15min,"Documentary, History, War & Military"
+tt29293520,2024,PG-13,1h 15min,"Documentary, War & Military, History"
 tt21905744,2024,R,1h 34min,"Horror, Mystery & Thriller"
-tt4460800,2024,R,1h 47min,"Science-Fiction, Mystery & Thriller, Drama, Action & Adventure, Comedy"
-tt18077924,2024,R,1h 40min,Comedy
-tt4919268,2024,R,1h 55min,"Comedy, Action & Adventure, Mystery & Thriller, Crime"
+tt4460800,2024,R,1h 47min,"Drama, Science-Fiction, Mystery & Thriller, Action & Adventure, Comedy"
+tt18077924,2024,R,1h 40min,"Comedy, Dramedy, Mystery Thriller"
+tt4919268,2024,R,1h 50min,"Action & Adventure, Comedy, Crime, Mystery & Thriller"
 tt15574270,2024,PG-13,1h 40min,"Drama, Horror"
 tt18272208,2024,PG-13,1h 44min,Drama
 tt8337290,2024,R,1h 52min,"Action & Adventure, Crime, Drama"
 tt10245072,2024,R,1h 54min,"Mystery & Thriller, Horror"
-tt20112746,2024,R,1h 32min,"Mystery & Thriller, Horror, Science-Fiction"
-tt26237514,2024,PG-13,2h 12min,Drama
+tt20112746,2024,R,1h 32min,"Science-Fiction, Mystery & Thriller, Horror"
+tt26237514,2024,PG-13,2h 12min,"Drama, History, War & Military"
 tt13923084,2024,R,1h 51min,"Action & Adventure, Crime, Mystery & Thriller"
 tt14961016,2024,PG-13,2h 17min,"Drama, Mystery & Thriller, History"
 tt26694194,2024,PG-13,1h 0min,Comedy
-tt28151876,2024,PG-13,2h 9min,"Comedy, Drama, Sport, Action & Adventure"
+tt28151876,2024,PG-13,2h 9min,"Action & Adventure, Comedy, Drama, Sport"
 tt11950888,2024,R,1h 37min,Mystery & Thriller
-tt11315808,2024,R,2h 18min,"Crime, Drama, Mystery & Thriller"
+tt11315808,2024,R,2h 18min,"Mystery & Thriller, Crime, Drama"
 tt12584954,2024,PG-13,2h 2min,Mystery & Thriller
 tt22173666,2024,R,1h 26min,"Action & Adventure, Horror, Mystery & Thriller"
-tt9471678,2024,PG,1h 57min,"Comedy, Kids & Family, Fantasy, Science-Fiction, Animation, Action & Adventure"
+tt9471678,2024,PG,1h 57min,"Animation, Action & Adventure, Comedy, Kids & Family, Fantasy, Science-Fiction"
 tt30319516,2024,R,1h 30min,Drama
 tt31850001,2024,PG,1h 24min,"Comedy, Romance, Crime"
-tt4772188,2024,PG,1h 25min,"Fantasy, Animation, Kids & Family"
-tt14833464,2024,R,1h 45min,"Comedy, Romance"
+tt4772188,2024,PG,1h 25min,"Animation, Fantasy, Kids & Family"
+tt14833464,2024,R,1h 45min,"Romance, Comedy"
 tt13452446,2024,PG-13,1h 50min,Fantasy
-Classified,2024,R,1h 45min,"Mystery & Thriller, Action & Adventure"
-tt28277817,2024,R,1h 59min,Drama
-tt22022452,2024,PG,1h 36min,"Drama, Comedy, Kids & Family, Fantasy, Animation"
-tt1609486,2024,PG,1h 30min,"Kids & Family, Action & Adventure, Fantasy, Comedy, Animation"
-tt19356262,2024,R,1h 24min,"Comedy, Crime, Action & Adventure, Mystery & Thriller"
-tt31514262,2024,R,1h 51min,"Comedy, Action & Adventure, Romance"
+tt27714840,2024,R,1h 45min,"Mystery & Thriller, Action & Adventure"
+tt28277817,2024,R,1h 59min,"Fantasy, Drama"
+tt22022452,2024,PG,1h 37min,"Kids & Family, Action & Adventure, Comedy, Drama, Animation, Fantasy"
+tt1609486,2024,PG,1h 30min,"Comedy, Kids & Family, Fantasy, Animation"
+tt19356262,2024,R,1h 24min,"Crime, Comedy, Mystery & Thriller, Action & Adventure"
+tt31514262,2024,R,1h 51min,"Comedy, Romance"
 tt27936770,2024,R,2h 14min,"Drama, Crime"
-tt17423664,2024,PG,1h 44min,"Animation, Comedy, Drama, Kids & Family, Fantasy"
-tt1322312,2024,PG-13,59min,Documentary
+tt11152168,2024,PG,1h 44min,"Animation, Comedy, Drama, Kids & Family, Fantasy"
+Dirty Keto,2024,PG-13,59min,Documentary
 tt19761454,2024,R,1h 27min,Mystery & Thriller
 tt27691828,2024,PG,1h 37min,Drama
 tt12965362,2024,PG-13,1h 20min,Comedy
 Baby Sharks in the City,2024,PG,45min,Documentary
 tt17045564,2024,NC-17,1h 26min,Drama
 tt15245194,2024,R,1h 15min,"Comedy, Horror"
-tt21861620,2024,PG-13,1h 29min,Crime
-tt32207059,2024,PG-13,3h 10min,Mystery & Thriller
+tt21861620,2024,PG-13,1h 29min,"Crime, Comedy"
+tt32207059,2024,PG-13,30min,Mystery & Thriller
 Ape X Mecha Ape: New World Order,2024,PG-13,1h 30min,Action & Adventure
 tt30255973,2024,R,1h 10min,"Mystery & Thriller, Horror, Drama"
 tt32650953,2024,R,1h 31min,"Action & Adventure, Comedy"
@@ -415,28 +415,28 @@ tt26735513,2024,PG,1h 50min,"Comedy, Drama, Romance"
 tt18076284,2024,R,1h 18min,"Horror, Action & Adventure"
 tt30487211,2024,PG-13,1h 30min,Drama
 Morto Rossa,2024,PG-13,10min,"Horror, Mystery & Thriller"
-tt33042923,2024,PG-13,1h 20min,"Fantasy, Horror"
-tt21942598,2024,R,1h 47min,"Action & Adventure, Comedy, Drama, Crime"
+tt33042923,2024,PG-13,1h 20min,"Horror, Fantasy"
+tt21942598,2024,R,1h 47min,"Comedy, Drama, Action & Adventure, Crime"
 tt22868094,2024,R,1h 45min,"Western, Mystery & Thriller, Action & Adventure"
 tt5473412,2024,R,1h 34min,"Mystery & Thriller, Horror, Drama"
 tt30129599,2024,R,1h 37min,"Horror, Mystery & Thriller"
 Winner,2024,PG-13,1h 43min,"Comedy, Drama"
-tt28128599,2024,PG-13,1h 25min,"Action & Adventure, Crime, Mystery & Thriller"
+tt28128599,2024,PG-13,1h 25min,"Crime, Mystery & Thriller, Action & Adventure"
 tt28603358,2024,PG-13,1h 47min,"Comedy, Romance"
 tt22306090,2024,R,1h 23min,"Horror, Mystery & Thriller"
 tt31102181,2024,PG-13,2h 12min,Drama
 tt32365822,2024,R,1h 41min,"Action & Adventure, Drama"
 tt33038092,2024,PG,1h 18min,Documentary
 tt32598478,2024,R,1h 51min,"Drama, Comedy"
-tt23743490,2024,R,1h 33min,"Drama, Comedy"
-tt32451344,2024,Null,Null,Null
+tt23743490,2024,R,1h 33min,"Mystery & Thriller, Action & Adventure, Comedy, Drama"
+tt32451344,2024,PG-13,1h 18min,"Documentary, History"
 tt30444418,2024,R,2h 8min,"Drama, Mystery & Thriller, Crime"
 Stevie Van Zandt: Disciple,2024,PG-13,2h 25min,"Music & Musical, Documentary"
 tt20102788,2024,R,1h 25min,"War & Military, Action & Adventure"
-tt15163886,2024,Null,Null,Null
+tt15163886,2024,G,2h 19min,Drama
 tt28055078,2024,R,1h 50min,"Comedy, Science-Fiction, Romance"
-tt22889928,2024,R,1h 55min,"Comedy, Horror, Mystery & Thriller"
-tt22399738,2024,R,1h 35min,"Sport, Comedy, Drama"
+tt22889928,2024,R,1h 55min,"Horror, Comedy, Mystery & Thriller"
+tt22399738,2024,R,1h 35min,"Comedy, Drama, Sport"
 tt28763074,2024,PG-13,2h 2min,"Horror, Mystery & Thriller"
 tt30840929,2024,PG-13,1h 40min,"Kids & Family, Drama"
 tt33051716,2024,R,1h 47min,"Comedy, Drama, Fantasy"
@@ -447,23 +447,23 @@ tt31788773,2024,PG,1h 52min,"Animation, Fantasy, Action & Adventure, Kids & Fami
 tt17423852,2024,PG-13,1h 27min,"Drama, Romance, Music & Musical"
 tt12444168,2024,R,1h 39min,Comedy
 tt27516178,2024,PG,1h 52min,Drama
-tt31914240,2024,PG-13,2h 52min,"Romance, Comedy"
-tt10171472,2024,R,1h 50min,"Comedy, Drama"
+tt31914240,2024,PG-13,2h 52min,"Comedy, Romance"
+tt10171472,2025,R,1h 51min,"Comedy, Drama"
 tt31022329,2024,PG,1h 12min,"Documentary, Kids & Family"
-tt14226748,2024,R,1h 33min,"Horror, Action & Adventure, Western, Mystery & Thriller, Drama"
+tt14226748,2024,R,1h 33min,"Action & Adventure, Western, Mystery & Thriller, Horror, Drama"
 tt27660061,2024,R,2h 12min,Drama
 tt27828085,2024,R,1h 46min,"Drama, Kids & Family"
 tt30983185,2024,R,23min,Comedy
-tt5911600,2024,Null,Null,Null
-Byte,2024,PG-13,1h 36min,Horror
+tt5911600,2024,R,1h 43min,"Crime, Drama"
+tt27873964,2024,PG-13,1h 36min,"Horror, Horror Thrille"
 tt30458756,2024,R,56min,Comedy
-tt32244679,2024,R,2h 59min,"Comedy, Documentary"
+tt32244679,2024,R,2h 59min,"Documentary, Comedy"
 Rachid Badouri: Les fleurs du tapis,2024,R,1h 40min,Comedy
 tt16740144,2024,PG,1h 40min,"Comedy, Kids & Family"
 tt27834180,2024,PG-13,1h 30min,Comedy
-tt28567745,2024,PG-13,1h 40min,"Drama, Comedy, Romance"
+tt28567745,2024,PG-13,1h 40min,"Comedy, Romance, Drama"
 tt28752710,2024,R,1h 38min,"Comedy, Romance"
-tt9682428,2024,PG-13,1h 38min,"Horror, Mystery & Thriller"
+tt9682428,2024,PG-13,1h 38min,"Horror, Mystery & Thriller, Horror Thriller"
 tt18884172,2024,R,1h 43min,"Crime, Horror"
 tt12280494,2024,R,1h 40min,Documentary
 tt13186604,2024,PG-13,1h 40min,"Science-Fiction, Drama, Fantasy"
@@ -471,81 +471,81 @@ tt7461686,2024,R,1h 40min,Drama
 tt19861162,2024,R,1h 56min,History
 tt24871974,2024,R,1h 46min,Science-Fiction
 tt1723808,2024,PG-13,2h 21min,"Drama, History"
-tt26546123,2024,Null,Null,Null
+tt26546123,2024,R,1h 40min,"Comedy, Romance, Drama"
 tt27657135,2024,R,1h 49min,"Comedy, Drama, History"
 tt11687002,2024,R,1h 58min,Drama
-tt15552142,2024,PG-13,1h 39min,"Drama, Science-Fiction, Horror"
+tt15552142,2024,PG-13,1h 39min,"Drama, Horror"
 tt28671146,2024,PG-13,1h 31min,"Drama, Sport, Mystery & Thriller, Animation, Action & Adventure"
-Argylle,2024,PG-13,2h 19min,"Comedy, Mystery & Thriller"
+tt15009428,2024,PG-13,2h 19min,"Comedy, Mystery & Thriller"
 tt32359447,2024,PG,1h 30min,"Romance, Comedy, Fantasy"
 tt20256448,2024,R,1h 52min,Crime
-tt12616480,2024,R,1h 48min,"Science-Fiction, Mystery & Thriller"
-tt31064841,2025,PG,1h 34min,"Comedy, Kids & Family, Animation, Music & Musical, Documentary"
+tt12616480,2024,R,1h 48min,"Mystery & Thriller, Science-Fiction"
+tt31064841,2024,PG,1h 33min,"Animation, Comedy, Kids & Family, Music & Musical, Documentary"
 tt15239678,2024,PG-13,2h 47min,"Science-Fiction, Drama"
-tt30150917,2024,Null,Null,Null
+tt30150917,2024,PG-13,1h 39min,"Action & Adventure, Animation, Science-Fiction, Drama, Fantasy"
 tt27722375,2024,R,1h 51min,"Comedy, Drama"
-tt26736843,2024,PG-13,1h 42min,"Horror, Mystery & Thriller, Fantasy"
-tt16491560,2024,R,1h 34min,"Drama, Horror"
-tt9466114,2024,R,1h 56min,"Drama, Comedy, Romance"
-tt27196021,2024,PG-13,1h 39min,"Drama, History"
-tt27367464,2024,R,1h 45min,"Music & Musical, Comedy, Drama"
+tt26736843,2024,PG-13,1h 42min,"Mystery & Thriller, Horror, Fantasy"
+tt16491560,2024,R,1h 34min,"Horror, Drama"
+tt9466114,2024,R,1h 56min,"Romance, Drama, Comedy"
+tt27196021,2024,PG-13,1h 38min,"Drama, History"
+tt27367464,2024,R,1h 45min,"Comedy, Drama, Music & Musical"
 tt28349451,2024,R,2h 25min,"Mystery & Thriller, Crime, Action & Adventure"
 tt28015403,2024,R,1h 51min,"Horror, Mystery & Thriller"
-tt26745321,2024,Null,Null,Null
+tt26745321,2025,R,1h 56min,"Drama, Mystery & Thriller"
 tt32020404,2024,PG-13,1h 43min,"Documentary, History, War & Military"
-tt24169886,2024,R,1h 42min,"Action & Adventure, Drama, Mystery & Thriller, Comedy, Crime"
-tt23638614,2024,PG,1h 53min,"Kids & Family, Drama"
+tt24169886,2024,R,1h 42min,"Crime, Comedy, Action & Adventure, Drama, Mystery & Thriller"
+tt23638614,2024,PG,1h 53min,"Drama, Kids & Family"
 tt27902121,2024,PG-13,1h 44min,"Documentary, Drama"
 tt21284218,2024,R,1h 32min,Comedy
 tt3359350,2024,R,2h 1min,"Action & Adventure, Mystery & Thriller"
 tt14351082,2024,PG-13,2h 22min,"Drama, History"
-tt27489557,2024,R,1h 49min,"Horror, Mystery & Thriller"
+tt27489557,2024,R,1h 49min,"Mystery & Thriller, Horror"
 tt14636214,2024,R,Null,"Comedy, Romance"
 tt21276958,2024,R,1h 44min,Comedy
 The Keeper,2024,R,1h 51min,Drama
-tt28075881,2024,R,2h 8min,"Crime, Drama"
-tt1660648,2024,R,1h 53min,Comedy
-tt28366692,2024,Null,Null,Null
-tt13433802,2024,PG-13,1h 39min,"Drama, Horror, Science-Fiction, Mystery & Thriller"
-tt16227044,2024,R,1h 53min,Documentary
+tt28075881,2024,R,2h 7min,"Drama, Crime"
+Ricky Stanicky,2024,R,1h 53min,Comedy
+tt28366692,2024,PG-13,1h 53min,Drama
+tt13433802,2024,PG-13,1h 39min,"Science-Fiction, Mystery & Thriller, Drama, Horror"
+tt16227044,2024,R,1h 56min,Documentary
 Marvel Studios Assembled: The Making of The Marvels,2024,PG,59min,Documentary
-tt20234774,2024,R,1h 40min,"History, Comedy, Crime, Drama, Mystery & Thriller"
-tt14093994,2024,PG,1h 27min,Documentary
+tt20234774,2024,R,1h 40min,"Comedy, Crime, Drama, History"
+The Last of the Sea Women,2024,PG,1h 27min,Documentary
 tt19853698,2024,PG-13,1h 31min,"Music & Musical, Romance, Comedy"
-tt5779228,2024,PG,1h 41min,"Kids & Family, Action & Adventure, Animation, Comedy, Fantasy"
-tt13186482,2024,PG,1min,"Kids & Family, Fantasy, Animation, Drama, Action & Adventure"
+tt5779228,2024,PG,1h 41min,"Animation, Comedy, Kids & Family, Action & Adventure, Fantasy"
+tt13186482,2024,PG,2h 0min,"Drama, Kids & Family, Fantasy, Animation"
 tt8442220,2024,R,1h 51min,"Comedy, Drama"
 tt16366836,2024,PG-13,1h 49min,"Science-Fiction, Mystery & Thriller"
 tt30149921,2024,G,1h 58min,"Comedy, Romance"
-tt28620587,2024,PG,1h 43min,"Music & Musical, Documentary"
+tt28620587,2024,PG,1h 43min,"Documentary, Music & Musical"
 tt15660614,2024,G,44min,"Documentary, History"
 tt15463616,2024,PG-13,1h 43min,"Comedy, Drama"
 tt33113344,2024,G,1h 24min,Romance
 tt27010921,2024,PG-13,1h 13min,Mystery & Thriller
 Scuba,2024,PG-13,1h 26min,Drama
 tt33362741,2024,R,1h 26min,Horror
-tt9232968,2024,R,1h 32min,"Mystery & Thriller, Horror, Action & Adventure"
-tt14904388,2024,Null,Null,Null
+tt9232968,2024,R,1h 32min,"Horror, Mystery & Thriller, Action & Adventure"
+tt14904388,2024,G,28min,Animation
 tt29719396,2024,NC-17,43min,Comedy
 tt32880628,2024,G,54min,Documentary
 tt19784570,2024,G,1h 52min,"Comedy, Romance"
 tt32176494,2024,PG,59min,Documentary
-tt30970776,2024,PG-13,1h 30min,"Comedy, Drama"
+tt30970776,2024,PG-13,1h 30min,"Drama, Comedy, Dramedy"
 In Bloom,2024,R,50min,Drama
-tt18987096,2024,NC-17,1h 16min,"Mystery & Thriller, Horror"
+tt18987096,2024,NC-17,1h 16min,"Horror, Mystery & Thriller"
 tt31724606,2024,PG-13,1h 32min,Documentary
-A Hustler's Son 2,2024,NC-17,1h 27min, Remove ads 
-tt30309913,2024,R,1h 33min,"Comedy, Drama"
-tt32604630,2024,G,1h 28min,Drama
+tt31171791,2024,NC-17,1h 27min,Crime
+tt30309913,2024,R,1h 33min,"Drama, Comedy"
+tt32604630,2024,G,1h 28min,"Drama, Romance, Holiday Romcom, Romantic Dram"
 tt18335416,2024,PG-13,1h 31min,"Drama, History"
 tt32151362,2024,NC-17,1h 4min,"Drama, Crime"
-tt10239332,2024,PG-13,1h 42min,"War & Military, Documentary, Crime"
+tt10239332,2024,PG-13,1h 42min,"Crime, War & Military, Documentary"
 tt26445481,2024,G,1h 30min,"Kids & Family, Fantasy, Comedy"
 tt6534616,2024,PG-13,2h 28min,"Fantasy, Comedy"
 Heart of the Hunter,2024,R,1h 48min,Action & Adventure
 tt29919979,2024,R,1h 26min,Comedy
 tt31868785,2024,R,1h 47min,Documentary
-Daughters,2024,PG-13,1h 48min,Documentary
+tt12336480,2024,PG-13,1h 48min,Documentary
 tt30317302,2024,R,1h 34min,"Crime, Documentary"
 tt29722855,2024,R,1h 47min,"Science-Fiction, Crime, Drama, Mystery & Thriller"
 tt16292816,2024,R,1h 28min,Drama
@@ -555,27 +555,27 @@ tt26742994,2024,R,1h 24min,"Horror, Mystery & Thriller"
 tt26342131,2024,PG,1h 34min,Documentary
 Billy Joel: The 100th - Live at Madison Square Garden,2024,PG,1h 29min,"Music & Musical, Documentary"
 tt23844724,2024,PG-13,2h 6min,Drama
-tt32223312,2024,G,1h 21min,"Kids & Family, Animation, Action & Adventure, Comedy, Science-Fiction"
+tt32223312,2024,G,1h 21min,"Animation, Action & Adventure, Comedy, Kids & Family, Science-Fiction"
 tt31850956,2024,PG,1h 30min,Drama
 tt14539318,2024,R,1h 37min,Horror
 tt30443437,2024,PG,1h 38min,"Drama, Kids & Family"
 tt29361299,2024,PG,1h 26min,Romance
-tt1659324,2024,R,1h 52min,"Crime, Drama"
+tt1659324,2024,R,1h 52min,"Crime, Drama, Mystery Thriller"
 tt33797186,2024,PG,3min,"Comedy, Animation"
 tt31169602,2024,R,1h 49min,Documentary
 tt27447224,2024,R,1h 22min,Documentary
 tt29794968,2024,PG-13,1h 25min,"Drama, Fantasy, Mystery & Thriller, Science-Fiction, Action & Adventure"
 tt21434318,2024,R,1h 36min,"Comedy, Sport"
 tt19873450,2024,PG-13,1h 34min,Crime
-tt19766466,2024,PG-13,1h 30min,"Action & Adventure, Horror, Science-Fiction, Fantasy, Mystery & Thriller"
+tt19766466,2024,PG-13,1h 30min,"Science-Fiction, Action & Adventure, Horror, Mystery & Thriller, Fantasy"
 tt5765240,2024,PG,1h 44min,"Kids & Family, Fantasy"
 tt16368898,2024,R,1h 30min,"Action & Adventure, Mystery & Thriller"
-The Beast Within,2024,Null,Null,Null
+The Beast Within,2024,R,1h 37min,"Horror, Drama, Mystery & Thriller"
 tt13076460,2024,G,1h 41min,"Drama, Romance"
 Inside Out 2: A Special Look,2024,PG,5min,"Animation, Comedy, Kids & Family"
-Dead Money,2024,R,1h 40min,"Crime, Mystery & Thriller"
+Dead Money,2024,R,1h 40min,"Mystery & Thriller, Crime"
 tt31068688,2024,PG-13,1h 26min,Drama
-tt32267351,2024,NC-17,1h 48min,"Drama, Crime"
+Nahir,2024,NC-17,1h 48min,"Drama, Crime"
 tt8406934,2024,R,1h 39min,"Action & Adventure, Mystery & Thriller"
 tt33292849,2024,PG,1h 26min,Documentary
 tt15204096,2024,R,1h 35min,"Comedy, Crime"
@@ -584,47 +584,47 @@ tt28301898,2024,R,1h 32min,"Mystery & Thriller, Romance, Comedy"
 tt15181360,2024,PG-13,1h 53min,"Drama, Sport"
 tt11299722,2024,PG-13,1h 34min,"Horror, Mystery & Thriller"
 tt30402897,2024,R,1h 34min,"Comedy, Documentary"
-tt23951384,2024,PG,1h 41min,"Animation, Drama, Music & Musical"
+tt23951384,2025,PG,1h 41min,"Drama, Music & Musical, Animation"
 tt31852892,2024,R,57min,Comedy
 tt31402962,2024,R,53min,Documentary
 tt32220386,2024,PG-13,1h 31min,Documentary
 tt32334046,2024,G,1h 24min,Drama
 tt23319892,2024,R,1h 46min,Comedy
-Christmas on the Ranch,2024,PG,1h 26min,Romance
+tt28197705,2024,PG,1h 26min,"Romance, Drama"
 tt27708700,2024,R,1h 24min,"Action & Adventure, Mystery & Thriller"
-tt10353588,2024,R,1h 37min,"Mystery & Thriller, Drama, Romance"
+tt10353588,2024,R,1h 37min,"Drama, Romance"
 tt13818368,2024,R,2h 47min,"Action & Adventure, Drama"
 A Family Affair,2024,PG-13,1h 54min,"Comedy, Romance"
 tt15314262,2024,R,1h 45min,"Crime, Action & Adventure, Mystery & Thriller"
 tt21235248,2024,PG-13,1h 55min,"Comedy, Fantasy, Science-Fiction"
-tt30057084,2025,R,1h 54min,"Mystery & Thriller, Crime, Drama"
-tt10869956,2024,R,1h 41min,"War & Military, Drama, History"
-tt21454134,2024,R,1h 56min,"Crime, Drama"
-tt11540468,2024,PG-13,1h 33min,"Science-Fiction, Mystery & Thriller, Action & Adventure"
+tt30057084,2025,R,1h 54min,"Crime, Mystery & Thriller, Drama"
+tt10869956,2024,R,1h 41min,"Drama, History, War & Military"
+tt21454134,2024,R,1h 56min,"Crime, Drama, Organized Crime"
+tt11540468,2024,PG-13,1h 33min,"Mystery & Thriller, Science-Fiction, Action & Adventure"
 tt5177114,2024,PG,2h 9min,"Drama, Romance, Sport"
-tt19864802,2024,R,1h 53min,"War & Military, Mystery & Thriller, Action & Adventure"
-tt10669888,2024,R,1h 38min,"Crime, Mystery & Thriller, Action & Adventure"
-The Greatest Hits,2024,PG-13,1h 34min,"Drama, Music & Musical, Romance"
-tt9883398,2024,PG-13,1h 27min,"Science-Fiction, Comedy, Drama"
+tt19864802,2024,R,1h 50min,"Action & Adventure, War & Military, Mystery & Thriller"
+tt10669888,2024,R,1h 38min,"Mystery & Thriller, Action & Adventure, Crime"
+The Greatest Hits,2024,PG-13,1h 34min,"Drama, Music & Musical, Romance, Fantasy"
+tt9883398,2024,PG-13,1h 27min,"Drama, Science-Fiction, Comedy, Action & Adventure"
 tt26940324,2024,R,1h 46min,"Action & Adventure, Comedy, Science-Fiction"
-tt0327785,2024,R,1h 44min,"Crime, Mystery & Thriller, Action & Adventure, Comedy"
-tt23853982,2024,R,2h 16min,"Fantasy, Drama"
-tt7737800,2024,R,1h 35min,"Crime, Drama"
+tt0327785,2024,R,1h 44min,"Action & Adventure, Comedy, Crime, Mystery & Thriller"
+tt23853982,2024,R,2h 16min,"Drama, Fantasy"
+tt7737800,2024,R,1h 34min,"Crime, Drama"
 tt32368345,2024,PG,1h 25min,"Romance, Comedy"
-tt22408160,2024,R,2h 44min,"Comedy, Drama, Horror"
-tt28172032,2024,PG,1h 37min,"Drama, War & Military, History"
+tt22408160,2024,R,2h 44min,"Drama, Horror, Comedy"
+tt28172032,2024,PG,1h 37min,"Drama, History, War & Military"
 tt21958136,2024,R,1h 36min,"Mystery & Thriller, Drama"
 tt5177120,2024,R,2h 2min,"Action & Adventure, Comedy, War & Military"
 tt10655524,2024,PG-13,2h 10min,"Drama, Romance"
 tt20201748,2024,R,1h 52min,"Comedy, Crime, Mystery & Thriller"
 tt27534307,2024,R,1h 50min,"Horror, Mystery & Thriller, Drama"
-tt15000156,2024,R,2h 0min,"Drama, Mystery & Thriller, History"
+tt15000156,2024,R,2h 0min,"Drama, History, Mystery & Thriller"
 tt5672290,2024,R,1h 59min,Horror
 tt26451068,2024,R,1h 33min,"Mystery & Thriller, Action & Adventure, Drama"
-tt30515931,2024,Null,Null,Null
-tt21097228,2024,Null,Null,Null
-tt1262426,2024,PG,2h 40min,"Drama, Fantasy, Romance"
-tt11057302,2024,PG-13,1h 56min,"Fantasy, Science-Fiction, Mystery & Thriller"
-tt29623480,2024,PG,1h 42min,"Science-Fiction, Animation, Kids & Family"
-tt32340343,2024,Null,Null,Null
+tt30515931,2024,R,1h 40min,"Action & Adventure, Comedy, Crime"
+tt21097228,2024,R,1h 52min,"Drama, Horror, Comedy"
+tt1262426,2024,PG,2h 40min,"Romance, Fantasy"
+tt11057302,2024,PG-13,1h 56min,"Fantasy, Mystery & Thriller, Science-Fiction"
+tt29623480,2024,PG,1h 42min,"Science-Fiction, Animation"
+tt32340343,2024,PG,1h 33min,Action & Adventure
 tt17526714,2024,R,2h 21min,"Drama, Horror, Science-Fiction"
