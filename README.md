@@ -15,10 +15,12 @@
 
 ## Nguồn
 #### Nguồn dữ liệu: 
-**Các trang web phim:** JustWatch, IMDb, OMDb API.
+**Các trang web phim:** JustWatch, OMDb API.
 #### Nguồn tham khảo:
 1. [JustWatch API](https://www.justwatch.com/us/api)
 2. [OMDb API Documentation](https://www.omdbapi.com/)
+3. Nguồn dữ liệu mở: Kaggle
+4. Các trang web phim nổi tiếng: Netflix, VTVGiaitri, FPTPlay
 
 ## Nội dung
 ## Contents
