@@ -15,10 +15,10 @@
 
 ## Nguồn
 #### Nguồn dữ liệu: 
-
+**Các trang web phim:** JustWatch, IMDb, OMDb API.
 #### Nguồn tham khảo:
-
-
+1. [JustWatch API](https://www.justwatch.com/us/api)
+2. [OMDb API Documentation](https://www.omdbapi.com/)
 
 ## Nội dung
 ## Contents
