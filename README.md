@@ -31,8 +31,9 @@
 - **Phương pháp**:
 - Sử dạng các công cụ phân tích dữ liệu của Python: Pandas, Numpy, Matplotlib, Seaborn và Scikit-learn
 - Áp dụng các thuật toán học máy để dự đoán
- 
 2. Data exploration   
-
+- **Mô tả dữ liệu**:
+- Tổng hợp dữ liệu từ các nguồn(JustWatch, OMDb API)
+- Đặc trưng: Tên, thời gian phát hành, độ tuổi, thời lượng, thể loại, ngôn ngữ, số lượng/tên giải thưởng, điểm từ Metacritic, điểm trên IMDb, số lượt bình chọn, doanh thu nội địa
 4. Frame the problems - Ask meaningful questions - Preprocessing - Analysis to answer the question     
 5. References    
