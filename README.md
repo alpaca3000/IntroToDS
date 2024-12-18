@@ -15,16 +15,24 @@
 
 ## Nguồn
 #### Nguồn dữ liệu: 
-
+**Các trang web phim:** JustWatch, OMDb API.
 #### Nguồn tham khảo:
-
-
+1. [JustWatch API](https://www.justwatch.com/us/api)
+2. [OMDb API Documentation](https://www.omdbapi.com/)
+3. Nguồn dữ liệu mở: Kaggle
+4. Các trang web phim nổi tiếng: Netflix, VTVGiaitri, FPTPlay
 
 ## Nội dung
 ## Contents
-1. Introduction   
+1. Introduction
+- **Mục tiêu**:
+- Phân tích các yếu tố ảnh hưởng đến thị hiếu khán giả đối với phim điện ảnh
+- Dự đoán xu hướng phim tương lai
+- **Phương pháp**:
+- Sử dạng các công cụ phân tích dữ liệu của Python: Pandas, Numpy, Matplotlib, Seaborn và Scikit-learn
+- Áp dụng các thuật toán học máy để dự đoán
  
 2. Data exploration   
 
-3. Frame the problems - Ask meaningful questions - Preprocessing - Analysis to answer the question     
-4. References    
+4. Frame the problems - Ask meaningful questions - Preprocessing - Analysis to answer the question     
+5. References    
