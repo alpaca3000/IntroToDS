@@ -38,66 +38,26 @@
 3. **Đặt câu hỏi ý nghĩa - Tiền xử lí - Phân tích để trả lời câu hỏi - Mô hình dự đoán**
 - **Đặt câu hỏi ý nghĩa**:
   1. Với từng thể loại khác nhau thì đánh giá của khán giả khác nhau như thế nào?
-     - Giúp xác định thể loại được khán giả yêu thích nhất và thể loại ít được quan tâm, để hiểu rõ xu hướng xem phim.
-     - Dựa vào cột IMDb Rating, IMDb Votes, và các thể loại phim.
   2. Các phim thuộc thể loại nào có nhiều khả năng được đề cử hoặc giành giải thưởng nhất?
-     - Giúp nhà làm phim định hướng chọn thể loại để tăng khả năng được đánh giá cao.
-     - Dựa vào cột Win, Nomination, và các thể loại phim.
   3. Nhóm tuổi (Age rating) ảnh hưởng thế nào đến sự phổ biến của các thể loại phim qua số lượt bình chọn IMDb?
-     - Hiểu rõ mức độ quan tâm và xu hướng thị trường.
-     - Dựa vào cột Age rating, IMDb Votes, và các thể loại phim
   4. Thời lượng phim (Runtime) ảnh hưởng như thế nào đến số lượng IMDb Votes và IMDb Rating?
-     - Xác định thời lượng lý tưởng giúp tăng đánh giá và thu hút khán giả.
-     - Dựa vào cột Runtime, IMDb Votes, và IMDb Rating.
   5. Thể loại nào có xu hướng phát triển mạnh nhất qua các quý của năm dựa trên số lượng phim phát hành?
-     - Phân tích xu hướng tăng trưởng để định hướng đầu tư vào các thể loại tiềm năng.
-     - Dựa vào cột Release time và các thể loại phim.
+     
 - **Tiền xử lý**:
   - Tổng hợp dữ liệu 
   - Kiểm tra số lượng cột, dòng và kiểu dữ liệu của từng đặc trưng 
   - Ý nghĩa của từng cột dữ liệu 
   - Phân bố dữ liệu của những cột quan trọng 
   - Xử lí giá trị trùng lặp và giá trị thiếu
-- **Phân tích để trả lời câu hỏi**:
-  - Câu hỏi 1:
-      - Phương pháp: Tính điểm trung bình (Bayesian Average) cho IMDb Rating từng thể loại.
-      - Trực quan: Biểu đồ bar so sánh IMDb Rating trung bình theo thể loại.
-      - Kết luận: Drama phổ biến nhưng đánh giá trung bình; History, Biography được đánh giá cao.
-
-  - Câu hỏi 2:
-    - Phương pháp: Tính tổng số đề cử và giải thưởng cho từng thể loại.
-    - Trực quan: Bar chart số đề cử và giải thưởng.
-    - Kết luận: Drama dẫn đầu, các thể loại như Adventure, Comedy có tiềm năng.
-
-  - Câu hỏi 3:
-    - Phương pháp: Tính tỷ trọng IMDb Votes cho từng nhóm tuổi và thể loại.
-    - Trực quan: Bar chart số IMDb Votes trung bình và heatmap tỷ trọng IMDb Votes.
-    - Kết luận: PG-13 và R là nhóm đóng góp chính; Animation, Family hút khán giả nhỏ.
-
-  - Câu hỏi 4:
-    - Phương pháp: Phân tích IMDb Votes và IMDb Rating theo nhóm thời lượng.
-    - Trực quan: Bar chart số lượng IMDb Votes và IMDb Rating theo Runtime.
-    - Kết luận: Phim >120 phút chất lượng cao; phim 80-120 phút phụ hợp thương mại.
-
-  - Câu hỏi 5:
-    - Phương pháp: Phân tích số phim phát hành qua các quý theo thể loại.
-    - Trực quan: Line chart xu hướng số lượng phim phát hành theo quý.
-    - Kết luận: Drama, Documentary, Comedy tăng ổn định; Short và Western có xu hướng giảm.
 
 - **Mô hình dự đoán**:
   - Vấn đề 1: Dự đoán phim có thành công hay không (Ratings > 7.0).
     - Mục tiêu: Hiểu rõ các yếu tố ảnh hưởng đến sự thành công của bộ phim.
-    - Phương pháp:
-      - Gắn nhãn mục tiêu "success" (thành công) dựa trên IMDb Rating > 7.0.
-      - Chia dữ liệu thành tập huấn luyện (80%) và kiểm tra (20%).
-      - Sử dụng SMOTE để xử lý mất cân bằng dữ liệu.
-    - Mô hình Random Forest Class:
-      - Hiệu quả với dữ liệu nhiều đặc trưng, không yêu cầu chuẩn hoá.
-      - Đánh giá qua Confusion Matrix, ROC Curve, AUC Score (0.73).
-      - Xác định các đặc trưng quan trọng như IMDb Votes, Runtime, Age Rating.
   - Vấn đề 2: Dự đoán Ratings của phim.
     - Mục tiêu: Dự đoán IMDb Rating dựa trên thời lượng, giới hạn độ tuổi, thể loại, lượt đề cử, thắng giải và bình chọn.
 4. **References**
-- [1] Cox, R., Kaashoek, M. F., & Morris, R. (2024). xv6: A simple, Unix-like teaching operating system (Revision 4). Massachusetts Institute of Technology. Retrieved from https://pdos.csail.mit.edu/6.1810/2024/xv6/book-riscv-rev4.pdf 
-- [2] Pike, R. (n.d.). Notes on threads. Retrieved from https://swtch.com/~rsc/thread/ 
-- [3] https://verificationglasses.wordpress.com/2021/01/17/a-star-sokoban-planning/ 
+- [1] API reference. (n.d.). Scikit-Learn. Retrieved December 19, 2024, from https://scikit-learn.org/1.5/api/index.html 
+- [2] API reference — pandas 2.2.3 documentation. (n.d.). Pydata.org. Retrieved December 19, 2024, from https://pandas.pydata.org/docs/reference/ 
+- [3] Matplotlib documentation — Matplotlib 3.9.3 documentation. (n.d.). Matplotlib.org. Retrieved December 19, 2024, from https://matplotlib.org/stable/ 
+- [4] API reference — seaborn 0.13.2 documentation. (n.d.). Pydata.org. Retrieved December 19, 2024, from https://seaborn.pydata.org/api.html 
+- [5] Using the Bayesian average in custom ranking. (n.d.). Algolia Documentation. Retrieved December 19, 2024, from https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/how-to/bayesian-average/ 
