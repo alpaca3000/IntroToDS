@@ -59,10 +59,10 @@
   - Phân bố dữ liệu của những cột quan trọng 
   - Xử lí giá trị trùng lặp và giá trị thiếu
 - **Phân tích để trả lời câu hỏi**:
-- Câu hỏi 1:
-    - Phương pháp: Tính điểm trung bình (Bayesian Average) cho IMDb Rating từng thể loại.
-    - Trực quan: Biểu đồ bar so sánh IMDb Rating trung bình theo thể loại.
-    - Kết luận: Drama phổ biến nhưng đánh giá trung bình; History, Biography được đánh giá cao.
+  - Câu hỏi 1:
+      - Phương pháp: Tính điểm trung bình (Bayesian Average) cho IMDb Rating từng thể loại.
+      - Trực quan: Biểu đồ bar so sánh IMDb Rating trung bình theo thể loại.
+      - Kết luận: Drama phổ biến nhưng đánh giá trung bình; History, Biography được đánh giá cao.
 
 Câu hỏi 2:
 
