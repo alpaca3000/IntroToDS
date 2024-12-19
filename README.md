@@ -62,7 +62,17 @@
 ## Cấu trúc dự án
 ```plaintext
 IntroDS/
-|- src/
+|- Data/
+   |- links.txt
+   |- movie_data.csv
+   |- movie_data_part1.csv
+   |- movie_data_part2.csv
+   |- movie_data_part3.csv
+   |- pre_data_part1.csv
+   |- pre_data_part2.csv
+   |- pre_data_part3.csv
+|- Source_codes/
+|- README.md
 ```
 ## Hướng dẫn sử dụng
 #### Yêu cầu hệ thống
@@ -77,4 +87,6 @@ IntroDS/
 #### Hướng dẫn cài đặt
 ```bash
 git clone https://github.com/alpaca3000/IntroToDS
-
+cd IntroToDS/Source_codes
+jupyter notebook DataPreprocessing.ipynb AnsweringQuestion.ipynb ML_1.ipynb ML2.ipynb
+```
