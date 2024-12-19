@@ -60,9 +60,10 @@
 - [5] Using the Bayesian average in custom ranking. (n.d.). Algolia Documentation. Retrieved December 19, 2024, from https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/how-to/bayesian-average/
 
 ## Cấu trúc dự án
+```plaintext
 IntroDS/
 |- src/
-
+```
 ## Hướng dẫn sử dụng
 #### Yêu cầu hệ thống
 - Python
