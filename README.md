@@ -72,4 +72,6 @@
   - Scikit-learn
 
 #### Hướng dẫn cài đặt
+```bash
+git clone https://github.com/alpaca3000/IntroToDS
 
