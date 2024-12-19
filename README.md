@@ -79,7 +79,7 @@
     - Trực quan: Bar chart số lượng IMDb Votes và IMDb Rating theo Runtime.
     - Kết luận: Phim >120 phút chất lượng cao; phim 80-120 phút phụ hợp thương mại.
 
-- Câu hỏi 5:
+  - Câu hỏi 5:
     - Phương pháp: Phân tích số phim phát hành qua các quý theo thể loại.
     - Trực quan: Line chart xu hướng số lượng phim phát hành theo quý.
     - Kết luận: Drama, Documentary, Comedy tăng ổn định; Short và Western có xu hướng giảm.
