@@ -35,20 +35,20 @@
 - **Mô tả dữ liệu**:
   - Tổng hợp dữ liệu từ các nguồn(JustWatch, OMDb API)
   - Đặc trưng: Tên, thời gian phát hành, độ tuổi, thời lượng, thể loại, ngôn ngữ, số lượng/tên giải thưởng, điểm từ Metacritic, điểm trên IMDb, số lượt bình chọn, doanh thu nội địa
-3. **Đặt câu hỏi ý nghĩa - Tiền xử lí - Phân tích để trả lời câu hỏi - Mô hình dự đoán**
-- **Đặt câu hỏi ý nghĩa**:
-  1. Với từng thể loại khác nhau thì đánh giá của khán giả khác nhau như thế nào?
-  2. Các phim thuộc thể loại nào có nhiều khả năng được đề cử hoặc giành giải thưởng nhất?
-  3. Nhóm tuổi (Age rating) ảnh hưởng thế nào đến sự phổ biến của các thể loại phim qua số lượt bình chọn IMDb?
-  4. Thời lượng phim (Runtime) ảnh hưởng như thế nào đến số lượng IMDb Votes và IMDb Rating?
-  5. Thể loại nào có xu hướng phát triển mạnh nhất qua các quý của năm dựa trên số lượng phim phát hành?
-     
+3. **Tiền xử lí - Đặt câu hỏi ý nghĩa - Mô hình dự đoán**   
 - **Tiền xử lý**:
   - Tổng hợp dữ liệu 
   - Kiểm tra số lượng cột, dòng và kiểu dữ liệu của từng đặc trưng 
   - Ý nghĩa của từng cột dữ liệu 
   - Phân bố dữ liệu của những cột quan trọng 
   - Xử lí giá trị trùng lặp và giá trị thiếu
+ 
+  - **Đặt câu hỏi ý nghĩa**:
+  1. Với từng thể loại khác nhau thì đánh giá của khán giả khác nhau như thế nào?
+  2. Các phim thuộc thể loại nào có nhiều khả năng được đề cử hoặc giành giải thưởng nhất?
+  3. Nhóm tuổi (Age rating) ảnh hưởng thế nào đến sự phổ biến của các thể loại phim qua số lượt bình chọn IMDb?
+  4. Thời lượng phim (Runtime) ảnh hưởng như thế nào đến số lượng IMDb Votes và IMDb Rating?
+  5. Thể loại nào có xu hướng phát triển mạnh nhất qua các quý của năm dựa trên số lượng phim phát hành?
 
 - **Mô hình dự đoán**:
   - Vấn đề 1: Dự đoán phim có thành công hay không (Ratings > 7.0).
