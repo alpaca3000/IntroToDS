@@ -83,8 +83,21 @@
     - Phương pháp: Phân tích số phim phát hành qua các quý theo thể loại.
     - Trực quan: Line chart xu hướng số lượng phim phát hành theo quý.
     - Kết luận: Drama, Documentary, Comedy tăng ổn định; Short và Western có xu hướng giảm.
-  
-4. References
+
+- **Mô hình dự đoán**:
+  - Vấn đề 1: Dự đoán phim có thành công hay không (Ratings > 7.0).
+    - Mục tiêu: Hiểu rõ các yếu tố ảnh hưởng đến sự thành công của bộ phim.
+    - Phương pháp:
+      - Gắn nhãn mục tiêu "success" (thành công) dựa trên IMDb Rating > 7.0.
+      - Chia dữ liệu thành tập huấn luyện (80%) và kiểm tra (20%).
+      - Sử dụng SMOTE để xử lý mất cân bằng dữ liệu.
+    - Mô hình Random Forest Class:
+      - Hiệu quả với dữ liệu nhiều đặc trưng, không yêu cầu chuẩn hoá.
+      - Đánh giá qua Confusion Matrix, ROC Curve, AUC Score (0.73).
+      - Xác định các đặc trưng quan trọng như IMDb Votes, Runtime, Age Rating.
+  - Vấn đề 2: Dự đoán Ratings của phim.
+    - Mục tiêu: Dự đoán IMDb Rating dựa trên thời lượng, giới hạn độ tuổi, thể loại, lượt đề cử, thắng giải và bình chọn.
+4. **References**
 - [1] Cox, R., Kaashoek, M. F., & Morris, R. (2024). xv6: A simple, Unix-like teaching operating system (Revision 4). Massachusetts Institute of Technology. Retrieved from https://pdos.csail.mit.edu/6.1810/2024/xv6/book-riscv-rev4.pdf 
 - [2] Pike, R. (n.d.). Notes on threads. Retrieved from https://swtch.com/~rsc/thread/ 
 - [3] https://verificationglasses.wordpress.com/2021/01/17/a-star-sokoban-planning/ 
