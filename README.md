@@ -52,6 +52,6 @@
   
   
 4. References
-[1] Cox, R., Kaashoek, M. F., & Morris, R. (2024). xv6: A simple, Unix-like teaching operating system (Revision 4). Massachusetts Institute of Technology. Retrieved from https://pdos.csail.mit.edu/6.1810/2024/xv6/book-riscv-rev4.pdf 
-[2] Pike, R. (n.d.). Notes on threads. Retrieved from https://swtch.com/~rsc/thread/ 
-[3] https://verificationglasses.wordpress.com/2021/01/17/a-star-sokoban-planning/ 
+- [1] Cox, R., Kaashoek, M. F., & Morris, R. (2024). xv6: A simple, Unix-like teaching operating system (Revision 4). Massachusetts Institute of Technology. Retrieved from https://pdos.csail.mit.edu/6.1810/2024/xv6/book-riscv-rev4.pdf 
+- [2] Pike, R. (n.d.). Notes on threads. Retrieved from https://swtch.com/~rsc/thread/ 
+- [3] https://verificationglasses.wordpress.com/2021/01/17/a-star-sokoban-planning/ 
