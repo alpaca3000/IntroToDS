@@ -26,20 +26,32 @@
 ## Contents
 1. **Giới thiệu**
 - **Mục tiêu**:
-- Phân tích các yếu tố ảnh hưởng đến thị hiếu khán giả đối với phim điện ảnh
-- Dự đoán xu hướng phim tương lai
+  - Phân tích các yếu tố ảnh hưởng đến thị hiếu khán giả đối với phim điện ảnh
+  - Dự đoán xu hướng phim tương lai
 - **Phương pháp**:
-- Sử dạng các công cụ phân tích dữ liệu của Python: Pandas, Numpy, Matplotlib, Seaborn và Scikit-learn
-- Áp dụng các thuật toán học máy để dự đoán
+  - Sử dạng các công cụ phân tích dữ liệu của Python: Pandas, Numpy, Matplotlib, Seaborn và Scikit-learn
+  - Áp dụng các thuật toán học máy để dự đoán
 2. **Khám phá dữ liệu**
 - **Mô tả dữ liệu**:
-- Tổng hợp dữ liệu từ các nguồn(JustWatch, OMDb API)
-- Đặc trưng: Tên, thời gian phát hành, độ tuổi, thời lượng, thể loại, ngôn ngữ, số lượng/tên giải thưởng, điểm từ Metacritic, điểm trên IMDb, số lượt bình chọn, doanh thu nội địa
-3. **Đặt câu hỏi ý nghĩa - Tiền xử lí - Phân tích để trả lời câu hỏi**
+  - Tổng hợp dữ liệu từ các nguồn(JustWatch, OMDb API)
+  - Đặc trưng: Tên, thời gian phát hành, độ tuổi, thời lượng, thể loại, ngôn ngữ, số lượng/tên giải thưởng, điểm từ Metacritic, điểm trên IMDb, số lượt bình chọn, doanh thu nội địa
+3. **Đặt câu hỏi ý nghĩa - Tiền xử lí - Phân tích để trả lời câu hỏi - Mô hình dự đoán**
 - **Đặt câu hỏi ý nghĩa**:
   1. Với từng thể loại khác nhau thì đánh giá của khán giả khác nhau như thế nào? 
   2. Các phim thuộc thể loại nào có nhiều khả năng được đề cử hoặc giành giải thưởng nhất? 
   3. Nhóm tuổi (Age rating) ảnh hưởng thế nào đến sự phổ biến của các thể loại phim qua số lượt bình chọn IMDb? 
   4. Thời lượng phim (Runtime) ảnh hưởng như thế nào đến số lượng IMDb Votes và IMDb Rating? 
-  5. Thể loại nào có xu hướng phát triển mạnh nhất qua các quý của năm dựa trên số lượng phim phát hành? 
-4. References    
+  5. Thể loại nào có xu hướng phát triển mạnh nhất qua các quý của năm dựa trên số lượng phim phát hành?
+- **Tiền xử lý**:
+  - Tổng hợp dữ liệu 
+  - Kiểm tra số lượng cột, dòng và kiểu dữ liệu của từng đặc trưng 
+  - Ý nghĩa của từng cột dữ liệu 
+  - Phân bố dữ liệu của những cột quan trọng 
+  - Xử lí giá trị trùng lặp và giá trị thiếu
+- **Phân tích để trả lời câu hỏi**:
+  
+  
+4. References
+[1] Cox, R., Kaashoek, M. F., & Morris, R. (2024). xv6: A simple, Unix-like teaching operating system (Revision 4). Massachusetts Institute of Technology. Retrieved from https://pdos.csail.mit.edu/6.1810/2024/xv6/book-riscv-rev4.pdf 
+[2] Pike, R. (n.d.). Notes on threads. Retrieved from https://swtch.com/~rsc/thread/ 
+[3] https://verificationglasses.wordpress.com/2021/01/17/a-star-sokoban-planning/ 
