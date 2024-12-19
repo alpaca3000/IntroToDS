@@ -25,14 +25,14 @@
 ## Nội dung
 ## Contents
 1. **Giới thiệu**
-**Mục tiêu**:
+- **Mục tiêu**:
 - Phân tích các yếu tố ảnh hưởng đến thị hiếu khán giả đối với phim điện ảnh
 - Dự đoán xu hướng phim tương lai
-**Phương pháp**:
+- **Phương pháp**:
 - Sử dạng các công cụ phân tích dữ liệu của Python: Pandas, Numpy, Matplotlib, Seaborn và Scikit-learn
 - Áp dụng các thuật toán học máy để dự đoán
 2. **Khám phá dữ liệu**
-**Mô tả dữ liệu**:
+- **Mô tả dữ liệu**:
 - Tổng hợp dữ liệu từ các nguồn(JustWatch, OMDb API)
 - Đặc trưng: Tên, thời gian phát hành, độ tuổi, thời lượng, thể loại, ngôn ngữ, số lượng/tên giải thưởng, điểm từ Metacritic, điểm trên IMDb, số lượt bình chọn, doanh thu nội địa
 3. **Đặt câu hỏi ý nghĩa - Tiền xử lí - Phân tích để trả lời câu hỏi**
