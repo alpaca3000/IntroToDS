@@ -36,7 +36,7 @@
 - Tổng hợp dữ liệu từ các nguồn(JustWatch, OMDb API)
 - Đặc trưng: Tên, thời gian phát hành, độ tuổi, thời lượng, thể loại, ngôn ngữ, số lượng/tên giải thưởng, điểm từ Metacritic, điểm trên IMDb, số lượt bình chọn, doanh thu nội địa
 3. **Đặt câu hỏi ý nghĩa - Tiền xử lí - Phân tích để trả lời câu hỏi**
-**Đặt câu hỏi ý nghĩa**:
+- **Đặt câu hỏi ý nghĩa**:
   1. Với từng thể loại khác nhau thì đánh giá của khán giả khác nhau như thế nào? 
   2. Các phim thuộc thể loại nào có nhiều khả năng được đề cử hoặc giành giải thưởng nhất? 
   3. Nhóm tuổi (Age rating) ảnh hưởng thế nào đến sự phổ biến của các thể loại phim qua số lượt bình chọn IMDb? 
