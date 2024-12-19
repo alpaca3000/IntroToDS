@@ -64,37 +64,25 @@
       - Trực quan: Biểu đồ bar so sánh IMDb Rating trung bình theo thể loại.
       - Kết luận: Drama phổ biến nhưng đánh giá trung bình; History, Biography được đánh giá cao.
 
-Câu hỏi 2:
+  - Câu hỏi 2:
+    - Phương pháp: Tính tổng số đề cử và giải thưởng cho từng thể loại.
+    - Trực quan: Bar chart số đề cử và giải thưởng.
+    - Kết luận: Drama dẫn đầu, các thể loại như Adventure, Comedy có tiềm năng.
 
-Phương pháp: Tính tổng số đề cử và giải thưởng cho từng thể loại.
+  - Câu hỏi 3:
+    - Phương pháp: Tính tỷ trọng IMDb Votes cho từng nhóm tuổi và thể loại.
+    - Trực quan: Bar chart số IMDb Votes trung bình và heatmap tỷ trọng IMDb Votes.
+    - Kết luận: PG-13 và R là nhóm đóng góp chính; Animation, Family hút khán giả nhỏ.
 
-Trực quan: Bar chart số đề cử và giải thưởng.
+  - Câu hỏi 4:
+    - Phương pháp: Phân tích IMDb Votes và IMDb Rating theo nhóm thời lượng.
+    - Trực quan: Bar chart số lượng IMDb Votes và IMDb Rating theo Runtime.
+    - Kết luận: Phim >120 phút chất lượng cao; phim 80-120 phút phụ hợp thương mại.
 
-Kết luận: Drama dẫn đầu, các thể loại như Adventure, Comedy có tiềm năng.
-
-Câu hỏi 3:
-
-Phương pháp: Tính tỷ trọng IMDb Votes cho từng nhóm tuổi và thể loại.
-
-Trực quan: Bar chart số IMDb Votes trung bình và heatmap tỷ trọng IMDb Votes.
-
-Kết luận: PG-13 và R là nhóm đóng góp chính; Animation, Family hút khán giả nhỏ.
-
-Câu hỏi 4:
-
-Phương pháp: Phân tích IMDb Votes và IMDb Rating theo nhóm thời lượng.
-
-Trực quan: Bar chart số lượng IMDb Votes và IMDb Rating theo Runtime.
-
-Kết luận: Phim >120 phút chất lượng cao; phim 80-120 phút phụ hợp thương mại.
-
-Câu hỏi 5:
-
-Phương pháp: Phân tích số phim phát hành qua các quý theo thể loại.
-
-Trực quan: Line chart xu hướng số lượng phim phát hành theo quý.
-
-Kết luận: Drama, Documentary, Comedy tăng ổn định; Short và Western có xu hướng giảm.
+- Câu hỏi 5:
+    - Phương pháp: Phân tích số phim phát hành qua các quý theo thể loại.
+    - Trực quan: Line chart xu hướng số lượng phim phát hành theo quý.
+    - Kết luận: Drama, Documentary, Comedy tăng ổn định; Short và Western có xu hướng giảm.
   
 4. References
 - [1] Cox, R., Kaashoek, M. F., & Morris, R. (2024). xv6: A simple, Unix-like teaching operating system (Revision 4). Massachusetts Institute of Technology. Retrieved from https://pdos.csail.mit.edu/6.1810/2024/xv6/book-riscv-rev4.pdf 
