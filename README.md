@@ -22,7 +22,6 @@
 3. Nguồn dữ liệu mở: Kaggle
 4. Các trang web phim nổi tiếng: Netflix, VTVGiaitri, FPTPlay
 
-## Nội dung
 ## Contents
 1. **Giới thiệu**
 - **Mục tiêu**:
@@ -38,12 +37,10 @@
 3. **Tiền xử lí - Đặt câu hỏi ý nghĩa - Mô hình dự đoán**   
 - **Tiền xử lý**:
   - Tổng hợp dữ liệu 
-  - Kiểm tra số lượng cột, dòng và kiểu dữ liệu của từng đặc trưng 
-  - Ý nghĩa của từng cột dữ liệu 
-  - Phân bố dữ liệu của những cột quan trọng 
+  - Kiểm tra số lượng cột, dòng và kiểu dữ liệu
   - Xử lí giá trị trùng lặp và giá trị thiếu
  
-  - **Đặt câu hỏi ý nghĩa**:
+- **Đặt câu hỏi ý nghĩa**:
   1. Với từng thể loại khác nhau thì đánh giá của khán giả khác nhau như thế nào?
   2. Các phim thuộc thể loại nào có nhiều khả năng được đề cử hoặc giành giải thưởng nhất?
   3. Nhóm tuổi (Age rating) ảnh hưởng thế nào đến sự phổ biến của các thể loại phim qua số lượt bình chọn IMDb?
@@ -51,13 +48,28 @@
   5. Thể loại nào có xu hướng phát triển mạnh nhất qua các quý của năm dựa trên số lượng phim phát hành?
 
 - **Mô hình dự đoán**:
-  - Vấn đề 1: Dự đoán phim có thành công hay không (Ratings > 7.0).
+  1. Dự đoán phim có thành công hay không (Ratings > 7.0).
     - Mục tiêu: Hiểu rõ các yếu tố ảnh hưởng đến sự thành công của bộ phim.
-  - Vấn đề 2: Dự đoán Ratings của phim.
+  2. Dự đoán Ratings của phim.
     - Mục tiêu: Dự đoán IMDb Rating dựa trên thời lượng, giới hạn độ tuổi, thể loại, lượt đề cử, thắng giải và bình chọn.
 4. **References**
 - [1] API reference. (n.d.). Scikit-Learn. Retrieved December 19, 2024, from https://scikit-learn.org/1.5/api/index.html 
 - [2] API reference — pandas 2.2.3 documentation. (n.d.). Pydata.org. Retrieved December 19, 2024, from https://pandas.pydata.org/docs/reference/ 
 - [3] Matplotlib documentation — Matplotlib 3.9.3 documentation. (n.d.). Matplotlib.org. Retrieved December 19, 2024, from https://matplotlib.org/stable/ 
 - [4] API reference — seaborn 0.13.2 documentation. (n.d.). Pydata.org. Retrieved December 19, 2024, from https://seaborn.pydata.org/api.html 
-- [5] Using the Bayesian average in custom ranking. (n.d.). Algolia Documentation. Retrieved December 19, 2024, from https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/how-to/bayesian-average/ 
+- [5] Using the Bayesian average in custom ranking. (n.d.). Algolia Documentation. Retrieved December 19, 2024, from https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/how-to/bayesian-average/
+
+## Cấu trúc dự án
+
+## Hướng dẫn sử dụng
+#### Yêu cầu hệ thống
+- Python
+- Thư viện cần thiết
+  - Pandas
+  - Numpy
+  - Matplotlib
+  - Seaborn
+  - Scikit-learn
+
+#### Hướng dẫn cài đặt
+
