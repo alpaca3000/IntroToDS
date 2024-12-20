@@ -72,6 +72,13 @@ IntroDS/
    |- pre_data_part2.csv
    |- pre_data_part3.csv
 |- Source_codes/
+   |- AnsweringQuestion.ipynb
+   |- DataCollection_part1.ipynb
+   |- DataCollection_part2.ipynb
+   |- DataPreprocessing.ipynb
+   |- LinkCollecting.ipynb
+   |- MachineLearning_part1.ipynb
+   |- MachineLearning_part2.ipynb   
 |- README.md
 ```
 ## Hướng dẫn sử dụng
