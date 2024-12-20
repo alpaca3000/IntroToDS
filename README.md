@@ -78,7 +78,8 @@ IntroDS/
    |- DataPreprocessing.ipynb
    |- LinkCollecting.ipynb
    |- MachineLearning_part1.ipynb
-   |- MachineLearning_part2.ipynb   
+   |- MachineLearning_part2.ipynb
+   |- Reflection.ipynb   
 |- README.md
 ```
 ## Hướng dẫn sử dụng
