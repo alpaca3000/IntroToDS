@@ -11,7 +11,7 @@
 | Nguyễn Đoàn Minh Uyên  | 22120421  |
 | Nguyễn Phạm Tú Uyên  | 22120422  |
 
-# Chủ đề: Phân tích những yếu tố ảnh hưởng tới thị hiếu khán giả và dự đoán xu hướng phim trong tương lai
+# Chủ đề: Phân tích những yếu tố ảnh hưởng tới thị hiếu khán giả và dự đoán rating phim
 
 ## Nguồn
 #### Nguồn dữ liệu: 
@@ -26,7 +26,7 @@
 1. **Giới thiệu**
 - **Mục tiêu**:
   - Phân tích các yếu tố ảnh hưởng đến thị hiếu khán giả đối với phim điện ảnh
-  - Dự đoán xu hướng phim tương lai
+  - Dự đoán rating phim
 - **Phương pháp**:
   - Sử dạng các công cụ phân tích dữ liệu của Python: Pandas, Numpy, Matplotlib, Seaborn và Scikit-learn
   - Áp dụng các thuật toán học máy để dự đoán
@@ -61,7 +61,7 @@
 
 ## Cấu trúc dự án
 ```plaintext
-IntroDS/
+Nhóm 13/
 |- Data/
    |- links.txt
    |- movie_data.csv
@@ -72,15 +72,21 @@ IntroDS/
    |- pre_data_part2.csv
    |- pre_data_part3.csv
 |- Source_codes/
-   |- AnsweringQuestion.ipynb
-   |- DataCollection_part1.ipynb
-   |- DataCollection_part2.ipynb
-   |- DataPreprocessing.ipynb
-   |- LinkCollecting.ipynb
-   |- MachineLearning_part1.ipynb
-   |- MachineLearning_part2.ipynb
+   |- DataCollection
+       |- DataCollection_JustWatch.ipynb
+       |- DataCollection_OMDb.ipynb
+       |- LinkCollecting
+   |- DataExploration
+       |- EDA.ipynb
+   |- DataModeling
+       |- RatingPrediction
+       |- SuccessPrediction
+   |- DataPreprocession
+       |- DataPreprocessing.ipynb
    |- Reflection.ipynb   
 |- README.md
+|- Report
+|- Slide
 ```
 ## Hướng dẫn sử dụng
 #### Yêu cầu hệ thống
@@ -91,10 +97,3 @@ IntroDS/
   - Matplotlib
   - Seaborn
   - Scikit-learn
-
-#### Hướng dẫn cài đặt
-```bash
-git clone https://github.com/alpaca3000/IntroToDS
-cd IntroToDS/Source_codes
-jupyter notebook DataPreprocessing.ipynb AnsweringQuestion.ipynb ML_1.ipynb ML2.ipynb
-```
